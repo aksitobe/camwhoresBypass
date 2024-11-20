@@ -40,7 +40,7 @@ Camwhores.tv private video bypass
  <div class="form-group">
 <label class="control-label" for="videoURL">Private video link</label>
 
-<p class="example">Example: http://www.camwhores.tv/videos/206198/j-ckplusjill-anal/</p>
+<p class="example">Example: https://www.camwhores.video/videos/14858671/anjela-tasheva2/</p>
 <input type="text" name="videoURL" class="form-control" placeholder="Insert video link here" required /><br />
 
 <label class="control-label" for="random">Random public video ddl link</label>
